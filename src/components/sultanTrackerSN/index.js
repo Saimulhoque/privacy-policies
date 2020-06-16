@@ -4,11 +4,11 @@ import "./style.css";
 const SultanTrackerSNPage = () => {
   return (
     <div className="policy-container">
-      <h2>Sultan Tracker Privacy Policy</h2>
+      <h2>Sultan STracker Privacy Policy</h2>
       <p>
         FORBIT is one of the rising company for software and IOT based services
         in Bangladesh offer by some young entrepreneurs. As part of our services
-        we built the SultanTracker app as a Free app. This SERVICE is provided
+        we built the SultanSTracker app as a Free app. This SERVICE is provided
         by FORBIT at no cost and is intended for use as is.
       </p>
 
@@ -19,7 +19,7 @@ const SultanTrackerSNPage = () => {
       </p>
 
       <p>
-        SultanTracker is a GPS Tracking Service using GPS Tracking Devices
+        SultanSTracker is a GPS Tracking Service using GPS Tracking Devices
         installed in vehicles or used by the customer for monitoring their
         concerned Physical Assets. This App or application is used for Tracking
         the physical devices only, and the data collected through the physical
