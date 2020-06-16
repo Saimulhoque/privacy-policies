@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/privacy-policies/static/css/main.1fdbc2c0.chunk.css",
-    "main.js": "/privacy-policies/static/js/main.d443157e.chunk.js",
-    "main.js.map": "/privacy-policies/static/js/main.d443157e.chunk.js.map",
+    "main.js": "/privacy-policies/static/js/main.d59a8d9c.chunk.js",
+    "main.js.map": "/privacy-policies/static/js/main.d59a8d9c.chunk.js.map",
     "runtime-main.js": "/privacy-policies/static/js/runtime-main.c104fd50.js",
     "runtime-main.js.map": "/privacy-policies/static/js/runtime-main.c104fd50.js.map",
     "static/js/2.f951e5d9.chunk.js": "/privacy-policies/static/js/2.f951e5d9.chunk.js",
     "static/js/2.f951e5d9.chunk.js.map": "/privacy-policies/static/js/2.f951e5d9.chunk.js.map",
     "index.html": "/privacy-policies/index.html",
-    "precache-manifest.959a9bf2619b32a5bec686b388e22fd2.js": "/privacy-policies/precache-manifest.959a9bf2619b32a5bec686b388e22fd2.js",
+    "precache-manifest.5ab63993629c60c7de262e487b647018.js": "/privacy-policies/precache-manifest.5ab63993629c60c7de262e487b647018.js",
     "service-worker.js": "/privacy-policies/service-worker.js",
     "static/css/main.1fdbc2c0.chunk.css.map": "/privacy-policies/static/css/main.1fdbc2c0.chunk.css.map",
     "static/js/2.f951e5d9.chunk.js.LICENSE.txt": "/privacy-policies/static/js/2.f951e5d9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c104fd50.js",
     "static/js/2.f951e5d9.chunk.js",
     "static/css/main.1fdbc2c0.chunk.css",
-    "static/js/main.d443157e.chunk.js"
+    "static/js/main.d59a8d9c.chunk.js"
   ]
 }
